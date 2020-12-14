@@ -2,7 +2,7 @@
 
 In this project, I am going to look at Airbnb listings in Buenos Aires and trying to provide some exploratory analysis around predicting listing prices. First, I will use Exploratory Data Analysis (EDA) to get to know the data. This will help me get an initial sense of which variables are associated with price, and which variables to include in the model. Using the important variables identified in EDA, I will try several classification models attempting to predict the price. Finally, I will evaluate the performance of the model.
 
-## Methods:
+## Models:
 - Random Forest Classifier
 - Gradient Boosting Classifier
 - XGBoost Classifier
