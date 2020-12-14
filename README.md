@@ -14,3 +14,8 @@ One possible way to improve the predictive accuracy is to combine different mode
 ![stacked](img/stacking.png)
 
 Such stacked ensemble often outperforms any of the individual base learners (e.g., a single random forest) and has been shown to represent an asymptotically optimal system for learning. 
+
+## Results:
+From Table the following table, `stacked7` is probably my best model, which performs slightly better than other models on both my test set and the test set on Kaggle. 
+
+![result](img/results.png)
