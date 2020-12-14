@@ -18,4 +18,4 @@ Such stacked ensemble often outperforms any of the individual base learners (e.g
 ## Results:
 From Table the following table, `stacked7` is probably my best model, which performs slightly better than other models on both my test set and the test set on Kaggle. 
 
-<div align=center><img width="500" height="300" src="img/results.png"/>
+<div align=center><img width="600" height="250" src="img/results.png"/>
