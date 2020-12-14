@@ -1,0 +1,50 @@
+\begin{thebibliography}{1}
+
+\bibitem{pandasprofiling2019}
+Simon Brugman.
+\newblock {pandas-profiling: Exploratory Data Analysis for Python}.
+\newblock \url{https://github.com/pandas-profiling/pandas-profiling}, 2019.
+\newblock Version: 2.X, Accessed: November 5, 2020.
+
+\bibitem{PyCaret}
+Moez Ali.
+\newblock {\em PyCaret: An open source, low-code machine learning library in
+  Python}, July 2020.
+\newblock PyCaret version 2.1.
+
+\bibitem{ho1998random}
+Tin~Kam Ho.
+\newblock The random subspace method for constructing decision forests.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  20(8):832--844, 1998.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{friedman2002stochastic}
+Jerome~H Friedman.
+\newblock Stochastic gradient boosting.
+\newblock {\em Computational statistics \& data analysis}, 38(4):367--378,
+  2002.
+
+\bibitem{chen2015xgboost}
+Tianqi Chen, Tong He, Michael Benesty, Vadim Khotilovich, and Yuan Tang.
+\newblock Xgboost: extreme gradient boosting.
+\newblock {\em R package version 0.4-2}, pages 1--4, 2015.
+
+\bibitem{boehmke2019hands}
+Brad Boehmke and Brandon~M Greenwell.
+\newblock {\em Hands-on machine learning with R}.
+\newblock CRC Press, 2019.
+
+\bibitem{van2007super}
+Mark~J Van~der Laan, Eric~C Polley, and Alan~E Hubbard.
+\newblock Super learner.
+\newblock {\em Statistical applications in genetics and molecular biology},
+  6(1), 2007.
+
+\end{thebibliography}
